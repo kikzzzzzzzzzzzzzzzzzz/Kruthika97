@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+C:\Users\sprav\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+57677293.index
+1704979481.index
+41736711.index
